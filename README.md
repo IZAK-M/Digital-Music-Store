@@ -40,4 +40,4 @@ Aller dans le dépôt Digital-music-store
 > cd digital-music-store
 
 Afin d'accéder aux scripts il nous faut lancer jupyter lab : 
-> jupyter8lab
+> jupyter-lab
